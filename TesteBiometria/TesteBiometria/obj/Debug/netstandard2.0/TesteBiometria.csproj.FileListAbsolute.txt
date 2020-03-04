@@ -1,0 +1,13 @@
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\bin\Debug\netstandard2.0\TesteBiometria.deps.json
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\bin\Debug\netstandard2.0\TesteBiometria.dll
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\bin\Debug\netstandard2.0\ref\TesteBiometria.dll
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\bin\Debug\netstandard2.0\TesteBiometria.pdb
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\TesteBiometria.AssemblyInfoInputs.cache
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\TesteBiometria.AssemblyInfo.cs
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\TesteBiometria.dll
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\ref\TesteBiometria.dll
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\TesteBiometria.pdb
+D:\Repositorios\Xamarin Nugets\TesteBiometria\TesteBiometria\TesteBiometria\obj\Debug\netstandard2.0\TesteBiometria.csprojAssemblyReference.cache
